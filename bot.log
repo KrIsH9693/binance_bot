@@ -1,0 +1,19 @@
+2025-05-14 17:32:57,741 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:33:32,945 - ERROR - Error placing order: APIError(code=-4013): Price less than min price.
+2025-05-14 17:35:24,315 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:35:50,837 - INFO - Order placed: {'orderId': 4426453294, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJb5e38cdffc3988c2e2fffe', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.001', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1747224352640}
+2025-05-14 17:40:38,080 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:41:01,835 - ERROR - Error placing order: APIError(code=-4013): Price less than min price.
+2025-05-14 17:41:33,070 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:41:49,953 - ERROR - Error placing order: APIError(code=-4013): Price less than min price.
+2025-05-14 17:44:34,479 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:44:55,414 - ERROR - Error placing order: APIError(code=-2019): Margin is insufficient.
+2025-05-14 17:45:08,752 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:45:30,529 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:45:48,859 - ERROR - Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-05-14 17:46:07,885 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:46:32,409 - ERROR - Error placing order: APIError(code=-1121): Invalid symbol.
+2025-05-14 17:47:30,697 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:47:48,231 - ERROR - Error placing order: APIError(code=-1121): Invalid symbol.
+2025-05-14 17:48:01,170 - INFO - Binance Futures Testnet client initialized
+2025-05-14 17:48:26,031 - INFO - Order placed: {'orderId': 4426478598, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ80f19a03c6427ee4fdbb41', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.111', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1747225107861}
